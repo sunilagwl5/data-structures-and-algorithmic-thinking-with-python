@@ -8,6 +8,8 @@
 # 				   warranty; without even the implied warranty of 
 # 				    merchantability or fitness for a particular purpose. 
 
+# Sunil Agarwal
+
 # Node of a Singly Linked List
 class Node:
     # constructor
