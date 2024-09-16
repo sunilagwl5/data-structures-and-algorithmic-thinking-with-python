@@ -8,6 +8,8 @@
 # 				   warranty; without even the implied warranty of 
 # 				    merchantability or fitness for a particular purpose. 
 
+# Sunil Agarwal
+
 class Node:
     # Constructor to initialize data
     # If data is not given by user,its taken as None 
